@@ -1,6 +1,6 @@
 # dumpwords.el
 
-A fork of [Stephen Eglen](http://www.damtp.cam.ac.uk/user/sje30/emacs/)'s `dupwords.el` found [here](http://www.damtp.cam.ac.uk/user/eglen/emacs/dupwords.el).
+A fork of [Stephen Eglen's](http://www.damtp.cam.ac.uk/user/sje30/emacs/) `dupwords.el` found [here](http://www.damtp.cam.ac.uk/user/eglen/emacs/dupwords.el).
 
 Avoid jarring language in the text you write. Highlight duplicated words in sentences or paragraphs in [Emacs](https://www.gnu.org/software/emacs/) while writing.
 
